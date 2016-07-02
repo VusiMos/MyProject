@@ -1,0 +1,15 @@
+Princess Galaxian 3.0 user manual
+--------------------------------------------------
+
+CONTROLS:
+
+Move up         ^ 
+Move down    V
+Moveleft         <
+Move right     >
+Shoot 	        left Ctrl
+To return       Backspace
+To select       Enter
+To quit           Esc
+
+
